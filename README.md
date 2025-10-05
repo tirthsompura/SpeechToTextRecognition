@@ -1,6 +1,6 @@
 # SpeechToTextRecognition
 
-<img src="https://github.com/user-attachments/assets/ff81dc69-a71e-41b8-b1db-337bfb4e225c" width="165">
-<img src="https://github.com/user-attachments/assets/09bc7779-77ef-4cc3-a4aa-26cf185fea71" width="165">
-<img src="hhttps://github.com/user-attachments/assets/8a3126e9-13f7-4150-acc6-0e21e9fb81da" width="165">
+<img src="https://github.com/user-attachments/assets/adc7399b-1fe5-4bb8-8642-010bd4b84af8" width="165">
+<img src="https://github.com/user-attachments/assets/5d7e1585-f481-4c13-ad62-71a0b04b8e33" width="165">
+<img src="https://github.com/user-attachments/assets/4b14f3b4-2501-48dc-8ca9-1738c724a23a" width="165">
 
